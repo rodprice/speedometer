@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP photo
+D IR phototransistor
+K photo transistor
+$ENDCMP
+#
+#End Doc Library

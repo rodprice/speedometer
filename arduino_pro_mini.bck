@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP photo
+D 40V Vce, 1A Ic, NPN, General Purpose Transistor, TO-92
+K NPN Transistor
+F http://www.fairchildsemi.com/ds/PN/PN2222A.pdf
+$ENDCMP
+#
+#End Doc Library
